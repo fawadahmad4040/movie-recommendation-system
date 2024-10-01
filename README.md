@@ -1,2 +1,2 @@
 # movie-recommendation-system
-This project implements a Movie Recommendation System using machine learning techniques and natural language processing (NLP). It suggests movies based on user preferences, such as genres, keywords, and similarities to other films.
+This project presents a movie recommendation system that identifies similar movies based on tags derived from the cast, genre, and synopsis data. The system analyzes these features to recommend the five most similar movies to a user-selected title. The implementation utilizes the K-nearest neighbors technique to perform the similarity analysis. The dataset for this project has been sourced from Kaggle.com.
